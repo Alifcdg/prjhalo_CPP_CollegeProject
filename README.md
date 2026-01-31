@@ -1,1 +1,1 @@
-This is a college simple task.
+This is a college simple task. Basically this is C++ project, my lecture ordered me and the other student to make a C++ project whatever it is as simple as possible. I make about a resort where the administration should asking about the visitor,s name.
