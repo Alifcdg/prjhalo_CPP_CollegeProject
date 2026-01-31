@@ -1,1 +1,5 @@
-This is a college simple task. Basically this is C++ project, my lecture ordered me and the other student to make a C++ project whatever it is as simple as possible. I make about a resort where the administration should asking about the visitor's name. Then, the administration should asking one more time if theres another member of the visitor's family etc and if theres nothing left, the list of the visitor and its family's name should be printed out.
+This is a simple college assignment using C++. 
+The program simulates a resort administration system that collects visitor names.
+The administrator asked to input the visitor's name and then asked whether there are other family members.
+If there are additional visitors, their names will be added to the list.
+When there are no more visitors, the program prints the complete list of guest names.
